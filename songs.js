@@ -3,7 +3,7 @@ const songs = [
         title: "Bhojpuri Song",
         artist: "John Smith",
         src: "audio.mp3",
-        cover: "images/summer-breeze.jpg"
+        cover: "song.jpg"
     },
     {
         title: "Midnight Jazz",
